@@ -2,3 +2,8 @@ venv
 *.pyc
 *.misc
 .~lock.*.odt*
+/train/*.*
+/annotations/*.*
+/annotations/xmls/*.*
+/images/*.*
+TEMP
